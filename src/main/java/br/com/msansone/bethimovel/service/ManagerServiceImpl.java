@@ -2,9 +2,7 @@ package br.com.msansone.bethimovel.service;
 
 import br.com.msansone.bethimovel.model.Manager;
 import br.com.msansone.bethimovel.repository.ManagerRepository;
-import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
